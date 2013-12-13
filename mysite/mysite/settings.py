@@ -24,6 +24,10 @@ DEBUG = True
 
 TEMPLATE_DEBUG = True
 
+TEMPLATE_DIRS = (
+  '/home/prashant/Development/django_first/mysite/mysite/templates',
+)
+
 ALLOWED_HOSTS = []
 
 
